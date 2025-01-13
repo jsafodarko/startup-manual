@@ -1,2 +1,2 @@
 # startup-manual
-Resources for non-tech founders
+Resources for non-technical founders building startups or passion projects.
